@@ -1,2 +1,2 @@
 Modificacao
-Entendendo o HEAd
+Entendendo o HEAD
